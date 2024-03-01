@@ -31,8 +31,8 @@ body {
 
 .gallery img {
   width: 100%;
-  max-width: 400px;
-  height: 350px;
+  max-width: 500px;
+  height: 450px;
   object-fit: cover;
   border-radius: 10px;
 }
